@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OJASSharma1407
 - 👀 I’m interested in Coading 
-- 🌱 I’m currently learning Data Structures and Algorithm in C++ 
+- 🌱 I’m currently learning MERN STACK 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: HE/HIM
