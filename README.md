@@ -12,7 +12,6 @@ Currently building projects, contributing to hackathons, and leveling up my skil
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OJASSharma1407&theme=radical)  
 ![Trophies](https://github-profile-trophy.vercel.app/?username=OJASSharma1407&theme=radical)  
 ![Visitor Count](https://profile-counter.glitch.me/OJASSharma1407/count.svg)  
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=radical)  
 ![Commit Activity](https://github-readme-stats.vercel.app/api?username=OJASSharma1407&show_icons=true&theme=radical&count_private=true)
 
 ---
