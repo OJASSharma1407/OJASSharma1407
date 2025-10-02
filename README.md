@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @OJASSharma1407
-- 👀 I’m interested in Coading 
-- 🌱 I’m currently learning MERN STACK 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: HE/HIM
-- ⚡ Fun fact: I also love to play football
+![Ojas's GitHub stats](https://github-readme-stats.vercel.app/api?username=OJASSharma1407&show_icons=true&theme=radical)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OJASSharma1407&layout=compact&theme=radical)
 
-<!---
-OJASSharma1407/OJASSharma1407 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OJASSharma1407&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=OJASSharma1407&theme=radical)
