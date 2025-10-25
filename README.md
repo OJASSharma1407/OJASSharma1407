@@ -9,9 +9,7 @@ Currently building projects, contributing to hackathons, and leveling up my skil
 
 ![Ojas's GitHub stats](https://github-readme-stats.vercel.app/api?username=OJASSharma1407&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OJASSharma1407&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OJASSharma1407&theme=radical)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=OJASSharma1407&theme=radical)  
-![Visitor Count](https://profile-counter.glitch.me/OJASSharma1407/count.svg)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OJASSharma1407&theme=radical)   
 ![Commit Activity](https://github-readme-stats.vercel.app/api?username=OJASSharma1407&show_icons=true&theme=radical&count_private=true)
 
 ---
