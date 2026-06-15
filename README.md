@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Ojas Sharma
 
 
-### 3nd Year BCA Student | Backend Development & AI Engineering
+### 3rd Year BCA Student | Backend Development & AI Engineering
 
 Building software systems at the intersection of Backend Engineering and AI.
 
